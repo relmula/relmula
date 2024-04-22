@@ -2,9 +2,9 @@
 I'm Relmula amd I'm starting to learn Python!
 
 ### About me:
-- 🫖 I work as a 3D interior visualizer
 - 📚 I studied Information Systems and Technologies at the Electrotechnical University of St. Petersburg
 - 🌱 I’m currently learning Python
+- 🫖 I work as a 3D interior visualizer
 
 ### Fun fact: 
 - 🦙 I really love playing The Sims
