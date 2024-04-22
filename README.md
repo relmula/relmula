@@ -1,11 +1,15 @@
-- 👋 Hi, I’m @relmula
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Hi 👋
+I'm Relmula amd I'm starting to learn Python!
 
+### About me:
+- 🫖 I work as a 3D interior visualizer
+- 📚 I studied Information Systems and Technologies at the Electrotechnical University of St. Petersburg
+- 🌱 I’m currently learning Python
+
+### Fun fact: 
+- 🦙 I really love playing The Sims
+- 🌻 I like to eat sunflower seeds
+- 🌄 Now I live in Vietnam
 <!---
 relmula/relmula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
