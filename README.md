@@ -1,5 +1,5 @@
 ## Hi 👋
-I'm Relmula amd I'm starting to learn Python!
+I'm Relmula and I'm starting to learn Python!
 
 ### About me:
 - 📚 I studied Information Systems and Technologies at the Electrotechnical University of St. Petersburg
